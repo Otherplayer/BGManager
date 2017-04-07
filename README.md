@@ -1,6 +1,6 @@
-# air-platform-console
+# xxx-platform-console
 
-Admin console for AIR Platform
+Admin console for xxx
 
 安装：
 ```
